@@ -6,7 +6,7 @@ We worked as a team at the Bootcamp, when we tested the Luma aplication (https:/
 - Test's report;
 - Bug's report.
 
-![Summary](sumario.png)
-![Change History](historico.png)
-![Test Scenario](cenário.png)
-![Graphic](graficos.png)
+![Summary](images/sumario.png)
+![Change History](images/historico.png)
+![Test Scenario](images/cenário.png)
+![Graphic](images/graficos.png)
