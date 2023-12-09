@@ -8,5 +8,5 @@ We worked as a team at the Bootcamp, when we tested the Luma aplication (https:/
 
 ![Summary](images/sumario.png)
 ![Change History](images/historico.png)
-![Test Scenario](images/cenário.png)
+![Test Scenario](images/cenario.png)
 ![Graphic](images/graficos.png)
